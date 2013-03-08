@@ -2,7 +2,7 @@
 <pluggable type="plugin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://schemas.habariproject.org/Pluggable-0.9.xsd">
   <name>Dummy</name>
   <license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
-  <url>http://habariproject.org/</url>
+  <url>http://githubsubpubhubbubhabariproject.org/</url>
   <author url="http://habariproject.org/">The Habari Community</author>
   <version>1.0</version>
   <guid>1e4d4365-1e29-44d1-8485-688d8827892f</guid>
